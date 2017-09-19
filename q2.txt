@@ -1,0 +1,1 @@
+Python has a built-in function called range that creates a sequence of numbers. range can accept 1, 2, or 3 parameters.
